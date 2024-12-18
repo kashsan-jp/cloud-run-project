@@ -2,11 +2,6 @@
 
 import { useState } from "react";
 
-const favoriteThings = [
-  'Chocolate',
-  'Javascript',
-  'Python'
-];
 
 // function addFavoriteThing (newThing: string) {
 //     favoriteThings.push(newThing);
